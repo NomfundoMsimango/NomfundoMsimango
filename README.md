@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NomfundoMsimango
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Data Analysis with Google
+- 👀 I’m interested in Data Analysis and Machine Learning
+- 🌱 I’m currently learning Data Science with ALX
 - 💞️ I’m looking to collaborate on AI & Machine learning 
 - 📫 How to reach me nomfundopembe@gmail.com
 
